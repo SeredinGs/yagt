@@ -8,6 +8,7 @@ git clone *url_repo*
 ```
 git status
 ```
+
 ### Клонирование репозитория с передачей логопасса
 ```
 git clone https://login:password@*url_repo*
@@ -31,6 +32,7 @@ git checkout *имя_ветки*
 ```
 git add *имя_файла*
 ```
+
 ### Сохранить изменения в ветке
 ```
 git commit -m "*текст_коммита*"
